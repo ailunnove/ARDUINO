@@ -5,7 +5,7 @@ void setup()
   pinMode(2, OUTPUT);//esto define  al pin 2 como entrada
   pinMode(3, OUTPUT);//esto define al pin 3 como salida
 }
-
+//HOLA LINDA
 void loop()//esto define cuando se prende y se apaga el led
 {
   if (digitalRead(4) == HIGH) {
